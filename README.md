@@ -1,1 +1,1 @@
-Data Structure and Algorithms practice in C++
+Data Structure and few Algorithms practice in C++
